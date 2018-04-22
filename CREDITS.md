@@ -1,6 +1,6 @@
 # Credits, Notes, and Reference
 
-## Twitter
+## Twitter API
 
   + https://apps.twitter.com/
   + https://api.twitter.com/1.1/statuses/user_timeline.json
@@ -9,8 +9,10 @@
   + http://gettwitterid.com/?user_name=msbgu&submit=GET+USER+ID
   + https://developer.twitter.com/en/docs/basics/authentication/overview/application-only
 
-## Insta
+## Instagram API
 
   + https://www.instagram.com/developer/clients/register/
   + https://www.instagram.com/developer/clients/manage/
   + https://www.instagram.com/developer/
+  + https://www.instagram.com/developer/authentication/
+  + https://www.instagram.com/developer/endpoints/users/#get_users_self
