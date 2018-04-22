@@ -1,0 +1,2 @@
+curl -u "$TWITTER_CONSUMER_KEY:$TWITTER_CONSUMER_SECRET" --compressed --data 'grant_type=client_credentials' 'https://api.twitter.com/oauth2/token'
+# {"token_type":"bearer","access_token":"____________"}
